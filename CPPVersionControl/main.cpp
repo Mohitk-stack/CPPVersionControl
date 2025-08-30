@@ -7,6 +7,6 @@ void greet()
 
 int main()
 {
-	//Added goodbye function
+	//Greet Function
 	greet();
 }
